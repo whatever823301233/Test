@@ -5,4 +5,5 @@ add a test
 
 test dev
 
-creating a new branch is quick AND simple
+
+create a new branch is quick and simple
